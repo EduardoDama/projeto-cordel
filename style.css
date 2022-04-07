@@ -12,7 +12,6 @@
     font-family: var(--fontepadrao);
     margin: 0px;
     padding: 0px;
-    min-height: 100vh;
 }
 header{
     background-color: black;
@@ -33,7 +32,7 @@ a:active{
 }
 header > p{
     text-align: center;
-    font-size: 25px;
+    font-size: 100%;
 }
 header > p a{
     font-weight: bold;
